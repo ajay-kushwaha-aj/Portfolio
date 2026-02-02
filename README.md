@@ -36,7 +36,6 @@ Before you begin, ensure you have the following installed:
 Clone the repository and install dependencies:
 
 ```bash
-cd ajay-portfolio
 npm install
 ```
 
@@ -92,33 +91,7 @@ public/
 
 **Don't have images yet?** The website uses beautiful gradient fallbacks automatically!
 
-#### 2. Contact Information (`src/components/Contact.jsx`)
-```javascript
-// Update email, LinkedIn, and GitHub URLs
-<a href="mailto:your.email@example.com">
-<a href="https://linkedin.com/in/yourprofile">
-<a href="https://github.com/yourusername">
-```
-
-#### 3. Footer (`src/components/Footer.jsx`)
-```javascript
-// Update social media links
-```
-
-#### 4. Education (`src/components/Education.jsx`)
-```javascript
-// Update university name, dates, and details
-const educationData = [
-  {
-    degree: 'Your Degree',
-    institution: 'Your University',
-    period: 'Start Year - End Year',
-    // ...
-  }
-];
-```
-
-#### 5. Projects (`src/components/Projects.jsx`)
+#### 2. Projects (`src/components/Projects.jsx`)
 ```javascript
 // Update project links from '#' to actual URLs
 links: {
@@ -244,29 +217,6 @@ ajay-portfolio/
 └── README.md                   # This file
 ```
 
-## 🎨 Design Philosophy
-
-- **Professional over Flashy**: Clean, credible design suitable for job applications
-- **Content First**: Strong typographic hierarchy and readability
-- **Minimal Animations**: Subtle, purposeful motion that doesn't distract
-- **High Contrast**: Accessible color combinations for all users
-- **Whitespace**: Generous spacing for clarity and focus
-
-## 🔧 Performance Optimization
-
-- Lazy loading for images
-- Code splitting with Vite
-- Minified production builds
-- Optimized font loading
-- Semantic HTML for better SEO
-
-## 📱 Browser Support
-
-- Chrome (last 2 versions)
-- Firefox (last 2 versions)
-- Safari (last 2 versions)
-- Edge (last 2 versions)
-
 ## 🤝 Contributing
 
 This is a personal portfolio project. If you find any bugs or have suggestions, feel free to open an issue.
@@ -278,9 +228,9 @@ This project is open source and available under the MIT License.
 ## 📧 Contact
 
 For any questions or support, reach out via:
-- Email: ajay.kushwaha@example.com
-- LinkedIn: [linkedin.com/in/ajaykushwaha](https://linkedin.com/in/ajaykushwaha)
-- GitHub: [github.com/ajaykushwaha](https://github.com/ajaykushwaha)
+- Email: ajaykushwahaa.aj@gmail.com
+- LinkedIn: [linkedin.com/in/ajay-kushwaha-aj](https://www.linkedin.com/in/ajay-kushwaha-aj/)
+- GitHub: [github.com/ajay-kushwaha-aj](https://github.com/ajay-kushwaha-aj)
 
 ---
 
